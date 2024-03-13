@@ -18,4 +18,7 @@ R-squared (R²) is a statistical measure that represents the proportion of the v
 
 These metrics provide insights into the performance of the model. Lower values of MAE, MSE, and RMSE indicate better accuracy, while a higher R-squared value closer to 1 indicates a better fit of the model to the data.
 
+These metrics provide insights into the performance of the model. Lower values of MAE, MSE, and RMSE indicate better accuracy, while a higher R-squared value closer to 1 indicates a better fit of the model to the data.
+
+<!-- We used https://colab.google/ to train and forecast data -->
 
